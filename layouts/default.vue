@@ -132,6 +132,8 @@ input, select {
 <style>
 body {
     background-color: rgb(238, 238, 238);
+    max-width: 1240px;
+    margin: auto;
 }
 </style>
 
